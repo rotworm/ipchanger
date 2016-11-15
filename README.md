@@ -1,2 +1,2 @@
-# ipchanger
-Collection of Tibia IP changers.
+# IP Changer
+Collection of Open Tibia Server IP changers.
